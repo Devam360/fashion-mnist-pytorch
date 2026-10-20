@@ -1,0 +1,15 @@
+{
+  "test_accuracy": 0.9197,
+  "per_class_accuracy": {
+    "T-shirt/top": 0.917,
+    "Trouser": 0.986,
+    "Pullover": 0.919,
+    "Dress": 0.91,
+    "Coat": 0.905,
+    "Sandal": 0.975,
+    "Shirt": 0.668,
+    "Sneaker": 0.978,
+    "Bag": 0.982,
+    "Ankle boot": 0.957
+  }
+}
